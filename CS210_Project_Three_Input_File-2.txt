@@ -1,0 +1,104 @@
+Spinach 1
+Radishes 2 
+Broccoli 3
+Peas 4
+Cranberries 1 
+Broccoli 2
+Potatoes 3
+Cucumbers 4
+Radishes 1
+Cranberries 2
+Peaches 3
+Zucchini 4
+Potatoes 5
+Cranberries 6
+Cantaloupe 7
+Beets 8
+Cauliflower 9
+Cranberries 1
+Peas 2
+Zucchini 3
+Peas 4 
+Onions 5
+Potatoes 6 
+Cauliflower 7
+Spinach 8
+Radishes 9
+Onions 1
+Zucchini 2
+Cranberries 3
+Peaches 4
+Yams 5
+Zucchini 6
+Apples 7
+Cucumbers 8
+Broccoli 9
+Cranberries 1
+Beets 2
+Peas 3
+Cauliflower 4
+Potatoes 5
+Cauliflower 6
+Celery 7
+Cranberries 8
+Limes 9
+Cranberries 1
+Broccoli 2
+Spinach 3
+Broccoli 4
+Garlic 5
+Cauliflower 6
+Pumpkins 7
+Celery 8
+Peas 9
+Potatoes 1
+Yams 2
+Zucchini 3
+Cranberries 4
+Cantaloupe 5
+Zucchini
+Pumpkins
+Cauliflower
+Yams
+Pears
+Peaches
+Apples
+Zucchini
+Cranberries
+Zucchini
+Garlic
+Broccoli
+Garlic
+Onions
+Spinach
+Cucumbers
+Cucumbers
+Garlic
+Spinach
+Peaches
+Cucumbers
+Broccoli
+Zucchini
+Peas
+Celery
+Cucumbers
+Celery
+Yams
+Garlic
+Cucumbers
+Peas
+Beets
+Yams
+Peas
+Apples
+Peaches
+Garlic
+Celery
+Garlic
+Cucumbers
+Garlic
+Apples
+Celery
+Zucchini
+Cucumbers
+Onions
